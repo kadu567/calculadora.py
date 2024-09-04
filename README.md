@@ -4,8 +4,7 @@
 Este projeto implementa uma calculadora gráfica utilizando Python, a biblioteca Tkinter e conceitos de Programação Orientada a Objetos (POO). A calculadora suporta operações básicas como adição, subtração, multiplicação e divisão, além de manter um histórico simples de operações.
 
 ## Estrutura do Projeto
-- `calculadora.py`: Classe responsável pela lógica das operações matemáticas.
-- `interface_calculadora.py`: Classe que gerencia a interface gráfica e a interação do usuário.
+- `calculadora.py`: Classe responsável pela lógica das operações matemáticas e que gerencia a interface gráfica e a interação do usuário.
 - `main.py`: Arquivo principal que inicializa a aplicação.
 - `README.md`: Este arquivo, contendo instruções de uso.
 
@@ -20,8 +19,7 @@ Este projeto implementa uma calculadora gráfica utilizando Python, a biblioteca
 - Histórico de operações: Usa o resultado anterior na próxima operação.
 
 ## Requisitos
-- Python 3.x
+- Python 
 - Tkinter (geralmente incluído por padrão com o Python)
 
-## Considerações
-O projeto foi organizado utilizando conceitos de POO para manter o código modular e fácil de manter. O design da interface foi simplificado para facilitar o uso.
+
